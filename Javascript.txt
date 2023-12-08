@@ -1,0 +1,31 @@
+Data - 28/11/2023
+1-How to run JavaScript ✅
+--Node 
+--Adding JavaScript and css in html file
+Data - 29/11/2023
+
+2-Environment in local machine ✅
+
+css --folder
+style.css name file
+--css/style.css
+--JavaScript/main.js
+
+powershell commends 
+--change directory -cd
+--Print working directory - pwd
+--list -ls
+--make directory -mkdir
+--remove directory - rmdir
+
+Data - 30/11/2023
+3-How to use github
+
+
+
+4-Let, const and var
+5-Datatype and ECMA standards
+6-Datatype conersion confusions
+7-why string to number converion in coufusing
+8-...more to go
+
